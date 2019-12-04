@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { TiArrowLeftThick } from "react-icons/ti";
 import { NavLink } from "react-router-dom";
-import qndp from "./qndp_img.png";
-import sneaks from "./sneaks_img.png"
+import qndp from "./qndp_img.jpg";
+import sneaks from "./sneaks_img.jpg"
 import "./Projects.scss";
 
 export default class Projects extends Component {
