@@ -19,7 +19,7 @@ export default class Projects extends Component {
             </div>
             <div className="paragraph">
               <h1 className="proj-title">QNDP</h1>
-              <h3 className="proj-text">* NOT RELEASED YET * <br></br>  A minimalistic static site used by QNDP, a parent company for smaller buisnesses.</h3>
+              <h3 className="proj-text">* NOT RELEASED YET * <br></br>  A minimalistic static site used by QNDP, a parent company for smaller businesses.</h3>
               <h3 className="proj-text">Created with React</h3>
             </div>
             <div className="pro-links">
